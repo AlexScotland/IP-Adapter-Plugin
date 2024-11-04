@@ -1,0 +1,2 @@
+class BinaryNotFound(Exception):
+    pass
